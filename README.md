@@ -15,8 +15,10 @@ En ce qui concerne le tabac, nous n'avons pas un accès direct aux bases de donn
 Mais nous allons également utiliser les données sur l'évolution de la population Suisse depuis 1992, car c'est la date à laquelle l'enquête commence. Nous allons regrouper ces deux types de données, afin de construire notre structure.
 
 ## But
-A l'aide de ces données, nous voulons explorer la consommation de tabac en Suisse d'une manière visuelle sous forme de scrollitelling tout en créant une page web avec une interface graphique et originale.
+À l'aide de ces données, nous souhaitons explorer la consommation de tabac en Suisse de manière visuelle en utilisant un scrollytelling. Nous créerons également une page web avec une interface graphique originale pour afficher les résultats de manière efficace.
 
-Nous voulons principalement proposer une lecture explicative, claire, précise
+Notre objectif principal est de présenter les données de la manière la plus simple possible, afin que les visiteurs puissent les comprendre facilement sans se perdre dans les informations que nous souhaitons communiquer.
+
+**En résumé, nous voulons principalement proposer une lecture explicative, claire, précise en scrollytelling**
 
 ## Références
