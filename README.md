@@ -8,7 +8,7 @@ Cette enquête permet de visualiser les différents aspects de la consommation d
 **Le lien vers l'enquête en question:** https://opendata.swiss/fr/dataset/tabakkonsum-in-der-schweiz
 
 ## Description
-Nous avons trouvés les données sous 2 formes principales:
+Nous avons trouvé les données sous deux formes principales :
 * API (JSON)
 * XML
 
