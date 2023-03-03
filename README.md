@@ -12,7 +12,10 @@ En ce qui concerne le tabac, nous n'avons pas un accès direct aux bases de donn
 
 **Le lien vers le pdf**: https://opendata.swiss/fr/dataset/tabakkonsum-in-der-schweiz/resource/5d5fa17c-0724-44d0-b46c-f37db44c1738
 
-Mais nous allons également utiliser les données sur l'évolution de la population Suisse depuis 1992, car c'est la date à laquelle l'enquête commence. Nous allons regrouper ces deux types de données, afin de construire notre structure.
+Mais nous allons également utiliser les données sur l'évolution de la population Suisse depuis 1992, car c'est la date à laquelle l'enquête de consommation de tabac commence. Nous allons regrouper ces deux types de données, afin de construire notre structure.
+
+**Nous allons utiliser le jeu de données sur la population Suisse qui nous vient du site de la confédération Suisse:**
+https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-0102020000_103/px-x-0102020000_103/px-x-0102020000_103.px/
 
 ## But
 À l'aide de ces données, nous souhaitons explorer la consommation de tabac en Suisse de manière visuelle en utilisant un scrollytelling. Nous créerons également une page web avec une interface graphique originale pour afficher les résultats de manière efficace.
