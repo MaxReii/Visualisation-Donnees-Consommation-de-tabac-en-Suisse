@@ -1,6 +1,6 @@
 # Visualisation Données (Consommation de tabac en Suisse)
 
-##Participants
+## Participants
 **Maxime Cuche & Martin Amez-Droz (M50-1)**
 
 ## Contexte 
