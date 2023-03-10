@@ -1,5 +1,8 @@
 # Visualisation Données (Consommation de tabac en Suisse)
 
+##Participants
+**Maxime Cuche & Martin Amez-Droz (M50-1)**
+
 ## Contexte 
 Nous avons choisi de travailler avec les données sur la consommation de tabac en Suisse, collectées lors d'une enquête menée par l'Office fédéral de la statistique (OFS) en 2017. 
 
