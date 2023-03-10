@@ -26,32 +26,26 @@ Notre objectif principal est de présenter les données de la manière la plus s
 
 ## Références
 **Graphique interactif qui permet de visualiser l'impact du tabagisme sur la santé**
-
 Smoking, Our Wold in Data : https://ourworldindata.org/smoking
 
 
 **Base de donnée sur la consommation de tabac en Suisse, ressource princiaple de notre travail.**
-
 Consommation de tabac en Suisse, Opendata.swiss : https://opendata.swiss/fr/dataset/tabakkonsum-in-der-schweiz
 
 
 **PDF de l'étude cité précédemment sur la consommation de tabac.**
-
 PDF, Consommation de tabac en Suisse, Opendata.swiss : https://opendata.swiss/fr/dataset/tabakkonsum-in-der-schweiz/resource/5d5fa17c-0724-44d0-b46c-f37db44c1738
 
 
 **Site permettant d'obtenir les données démaographiques sur la Suisse avec option de filtre, ressource princiaple de notre travail.**
-
 Bilan démographique selon l'âge en suisse : https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-0102020000_103/px-x-0102020000_103/px-x-0102020000_103.px/
 
 
 **Site regroupant différent graphique sur le tabagisme en Suisse**
-
 Tabac, MonAM – Système de monitorage suisse des Addictions et des Maladies non transmissibles : https://ind.obsan.admin.ch/fr/monam/topic/1TAB
 
 
 **Statistique sur le tabagisme en suisse avec visualisation des données statiques.**
-
 Consommation de tabac dans la population, addiction suisse : https://www.addictionsuisse.ch/faits-et-chiffres/cigarettes-co/cigarettes-co-consommation/
 
 
