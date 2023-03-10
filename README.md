@@ -35,7 +35,7 @@ PDF, Consommation de tabac en Suisse, Opendata.swiss : https://opendata.swiss/fr
 **PDF de l'étude cité précédemment sur la consommation de tabac.**
 
 Bilan démographique selon l'âge en suisse : https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-0102020000_103/px-x-0102020000_103/px-x-0102020000_103.px/
-Site permettant d'obtenir les données démaographiques sur la Suisse avec option de filtre, ressource princiaple de notre travail.**
+**Site permettant d'obtenir les données démaographiques sur la Suisse avec option de filtre, ressource princiaple de notre travail.**
 
 Tabac, MonAM – Système de monitorage suisse des Addictions et des Maladies non transmissibles : https://ind.obsan.admin.ch/fr/monam/topic/1TAB
 **Site regroupant différent graphique sur le tabagisme en Suisse**
