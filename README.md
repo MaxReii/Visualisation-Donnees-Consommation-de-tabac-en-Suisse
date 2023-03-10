@@ -17,7 +17,10 @@ En ce qui concerne le tabac, nous n'avons pas un accès direct aux bases de donn
 
 **Le lien vers le pdf**: https://opendata.swiss/fr/dataset/tabakkonsum-in-der-schweiz/resource/5d5fa17c-0724-44d0-b46c-f37db44c1738
 
-Pour ce qui est du bilan démographique, nous avons accès à diverses données, allant de
+Pour ce qui est du bilan démographique, nous avons accès à diverses données, regroupant année, nationalité, sexe, age et composante démographique. Le site nous propose également la possibilité d'avoir ces données sous forme de tableau, graphique ou encore excel.
+
+**Jeu de données sur la Bilan démographique:**
+https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-0102020000_103/px-x-0102020000_103/px-x-0102020000_103.px/
 
 ## But
 À l'aide de ces données, nous souhaitons explorer la consommation de tabac en Suisse de manière visuelle en utilisant un scrollytelling. Nous créerons également une page web avec une interface graphique originale pour afficher les résultats de manière efficace. 
