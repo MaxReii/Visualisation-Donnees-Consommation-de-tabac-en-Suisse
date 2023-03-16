@@ -52,4 +52,4 @@ Tabac, MonAM – Système de monitorage suisse des Addictions et des Maladies no
 Consommation de tabac dans la population, addiction suisse : https://www.addictionsuisse.ch/faits-et-chiffres/cigarettes-co/cigarettes-co-consommation/
 
 ## Wireframe
-![wireframe](/WireframeVisualDon.png "wireframe")
+<p align="center"><img src="/WireframeVisualDon.png" width="400"></p>
